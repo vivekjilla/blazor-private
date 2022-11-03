@@ -1,0 +1,8 @@
+OperationId="|4KB/dQXjgBY=.e4289934_"
+DotNetCoreRuntimeVersion="7.0.0-rc.2.22472.3"
+DotNetCoreSdkVersion="7.0.100-rc.2.22477.23"
+OutputType="Library"
+StartupDllFileName="Client.dll"
+SourceDirectoryInBuildContainer="/blazor-app/Client"
+PlatformName="dotnet"
+CompressDestinationDir="false"

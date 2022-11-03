@@ -1,0 +1,8 @@
+OperationId="|J1cgjBX229w=.69d79ba0_"
+DotNetCoreRuntimeVersion="7.0.0"
+DotNetCoreSdkVersion="7.0.100"
+OutputType="Exe"
+StartupDllFileName="ApiIsolated.dll"
+SourceDirectoryInBuildContainer="/blazor-app/ApiIsolated"
+PlatformName="dotnet"
+CompressDestinationDir="false"
